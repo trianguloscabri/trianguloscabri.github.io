@@ -20,7 +20,7 @@ Los aspectos más básicos del [Markdown](https://www.markdownguide.org/cheat-sh
 
 ## **Imagen** en nuestra propia estructura web.
 
-![zorrito](./demoFiles/3827f3b6832fba42dfe18bb3b470b5c6.jpg)
+![zorrito](../assets/demo/3827f3b6832fba42dfe18bb3b470b5c6.jpg)
 
 
 ## **Imagen** en una localización externa.
