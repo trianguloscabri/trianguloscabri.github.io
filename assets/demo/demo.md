@@ -1,6 +1,5 @@
 ---
 usemathjax: true
-title: Github Pages Cheatsheet
 ---
 
 ## **Markdown** básico
