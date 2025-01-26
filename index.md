@@ -26,7 +26,7 @@ layout: home
   </tr>
   <tr>
     <td><a href="#">Curso 2017/18</a></td>
-    <td><a href="#">Curso 2016/17</a></td>
+    <td><a href="https://trianguloscabri.github.io/curso20162017/index.htm">Curso 2016/17</a></td>
     <td><a href="#">Curso 2015/16</a></td>
     <td><a href="#">Curso 2014/15</a></td>
   </tr>
