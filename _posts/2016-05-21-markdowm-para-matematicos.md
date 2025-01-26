@@ -20,7 +20,7 @@ Los aspectos más básicos del [Markdown](https://www.markdownguide.org/cheat-sh
 
 ## **Imagen** en nuestra propia estructura web.
 
-![zorrito](./demoFiles/3827f3b6832fba42dfe18bb3b470b5c6.jpg)
+![zorrito](demoFiles/3827f3b6832fba42dfe18bb3b470b5c6.jpg)
 
 
 ## **Imagen** en una localización externa.
@@ -72,7 +72,7 @@ with open('archivo.txt', 'r') as f:
 <div id="geogebra" style="width: 800px; height: 600px;"></div>
 <script>
 var applet = new GGBApplet({
-"filename": "./demoFiles/material-fpgkybfj.ggb", // Cambia esto según la ubicación de tu archivo
+"filename": "demoFiles/material-fpgkybfj.ggb", // Cambia esto según la ubicación de tu archivo
 "showToolbar": true,
 "showAlgebraInput": true,
 "showMenuBar": true
