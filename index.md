@@ -19,7 +19,7 @@ layout: home
 ## Los 200x
 <table>
   <tr>
-    <td><a href="#">Curso 2000/01</a><br>Problemas 1 al 35</td>
+    <td><a href="https://trianguloscabri.github.io/curso20002001/index.htm">Curso 2000/01</a><br>Problemas 1 al 35</td>
     <td><a href="#">Curso 2001/02</a><br>Problemas 36 al 59</td>
     <td><a href="#">Curso 2002/03</a><br>Problemas 60 al 110</td>
     <td><a href="#">Curso 2003/04</a><br>Problemas 111 al 190</td>
