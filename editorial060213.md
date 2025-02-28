@@ -1,4 +1,7 @@
-# Editorial 2
+
+![Logo de Tríángulos Cabri](logoTcabri.gif)
+
+## Editorial 2
 
 Sevilla, 13 de Febrero de 2006
 
@@ -36,12 +39,8 @@ Por último, esperamos que la página siga con su propuesta quincenal de problem
 
 
 #### El comité Editorial (12 abril 2004-12 abril 2006)
-Dr. José María Gavilán Izquierdo, TEU del Departamento de Didáctica de las Matemáticas(Universidad de Sevilla)
-
-Florentino Damián Aranda Ballesteros, profesor del IES Blas Infante de Córdoba.
-
-Saturnino Campo Ruiz, profesor del IES Fray Luis de León de Salamanca. 
-
-Juan Carlos Salazar, profesor de Geometría del Equipo Olímpico de Venezuela.(Puerto Ordaz)
-
-Maite Peña Alcaraz, estudiante de Industriales en la Universidad de Comillas (Madrid). 
+- Dr. José María Gavilán Izquierdo, TEU del Departamento de Didáctica de las Matemáticas(Universidad de Sevilla)
+- Florentino Damián Aranda Ballesteros, profesor del IES Blas Infante de Córdoba.
+- Saturnino Campo Ruiz, profesor del IES Fray Luis de León de Salamanca. 
+- Juan Carlos Salazar, profesor de Geometría del Equipo Olímpico de Venezuela.(Puerto Ordaz)
+- Maite Peña Alcaraz, estudiante de Industriales en la Universidad de Comillas (Madrid). 
