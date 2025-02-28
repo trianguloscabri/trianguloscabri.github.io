@@ -13,7 +13,7 @@ layout: home
   Está dirigida por Ricardo Barroso Campos, profesor de Didáctica de las Matemáticas de la Universidad de Sevilla.
 
 ## Editoriales
-[[editorial060213]]
+<a href="https://trianguloscabri.github.io/editorial060213.html">Editorial 2</a>
 
 ## Los 200x
 <table>
