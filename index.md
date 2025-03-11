@@ -8,7 +8,7 @@ layout: home
 ![Logo de Tríángulos Cabri](logoTcabri.png)
 
 
-  El Laboratorio Virtual de Triángulos con Cabri fue una revista on-line de matemáticas desde 2000 a 20023,  dedicada a la resolución de problemas sobre triángulos.
+  El Laboratorio Virtual de Triángulos con Cabri fue una revista on-line de matemáticas desde 2000 a 2023,  dedicada a la resolución de problemas sobre triángulos.
 
   Estuvo dirigida por Ricardo Barroso Campos, profesor de Didáctica de las Matemáticas de la Universidad de Sevilla. 
   
