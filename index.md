@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![Logo de Tríángulos Cabri](logoTcabri.gif)
+![Logo de Tríángulos Cabri](logoTcabri.png)
 
 
   El Laboratorio Virtual de Triángulos con Cabri es una revista on-line de matemáticas dedicada a la resolución de problemas sobre triángulos.
@@ -54,7 +54,7 @@ layout: home
 ## Los 202x
 <table>
   <tr>
-    <td><big><a href="https://trianguloscabri.github.io/curso20102021/index.htm">Curso 2020/21</a></big><br>Problemas<br><em> 948 al 1007 </em></td>
+    <td><big><a href="https://trianguloscabri.github.io/curso20202021/index.htm">Curso 2020/21</a></big><br>Problemas<br><em> 948 al 1007 </em></td>
     <td><big><a href="https://trianguloscabri.github.io/curso20212022/index.htm">Curso 2021/22</a></big><br>Problemas<br><em> 1008 al 1055 </em></td>
     <td><big><a href="https://trianguloscabri.github.io/curso20222023/index.htm">Curso 2022/23</a></big><br>Problemas<br><em> 1057 al --- </em></td>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
